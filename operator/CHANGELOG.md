@@ -1,5 +1,12 @@
 ## Main
 
+## [0.10.1](https://github.com/grafana/loki/compare/operator/v0.10.0...operator/v0.10.1) (2026-03-25)
+
+
+### Bug Fixes
+
+* **deps:** update module google.golang.org/grpc to v1.79.3 [security] (main) ([#21192](https://github.com/grafana/loki/issues/21192)) ([606472c](https://github.com/grafana/loki/commit/606472cc13a795501ddd2a59102661a80170f124))
+
 ## [0.10.0](https://github.com/grafana/loki/compare/operator/v0.9.0...operator/v0.10.0) (2026-03-18)
 
 

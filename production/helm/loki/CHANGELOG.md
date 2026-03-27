@@ -13,6 +13,10 @@ Entries should include a reference to the pull request that introduced the chang
 
 ## Unreleased
 
+## 6.56.0
+
+- [CHANGE] Changed version of Grafana Loki to 3.7.1
+
 - [FEATURE] Update README chart migration notice from future tense to past tense
 
 ## 6.55.0
